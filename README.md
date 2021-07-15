@@ -3,8 +3,8 @@
   * Never finished this tut, jumped directly to Vue.js and liked it.
   * July, 2021
 ---
-Lesson 1
-  * Aliquam efficitur elementum metus, at iaculis libero molestie a. Aenean ex elit, vestibulum id eros in, gravida rhoncus ante. Donec laoreet risus dui, ut tincidunt est viverra vitae. Maecenas tincidunt urna eget faucibus ultrices. Ut et justo sed elit sagittis placerat. Sed fermentum sapien eget arcu faucibus, et facilisis nibh vestibulum. In hac habitasse platea dictumst. Curabitur molestie augue sit amet ullamcorper ornare.
+Lesson 2
+  * Nulla dapibus lectus sodales dictum laoreet. Duis sollicitudin a justo nec laoreet. Nullam nec sapien non eros posuere gravida quis sed massa. Vivamus id tristique diam. Fusce id diam sit amet urna suscipit pulvinar eu quis est. Curabitur a purus interdum, efficitur libero non, ultrices mi. Duis ac risus vel odio placerat congue. Fusce malesuada scelerisque aliquam. Sed suscipit pellentesque urna at feugiat. Cras sit amet egestas odio. Sed quis imperdiet nulla. Vestibulum sed mi id ipsum tristique mattis.
     
 
 
